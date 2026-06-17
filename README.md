@@ -127,7 +127,7 @@ Colombians converse. The conceptual observations come from there; the lexicon is
 grounded in real Colombian usage.*
 
 - **La forma de conversar de los colombianos no es normal** — https://youtu.be/y0Ozkfln1Zk
-- **El Colombiano Nunca Te Cuenta Algo "Normal"… y Esta es la Razón** — *(mismo autor / same creator)*
+- **El Colombiano Nunca Te Cuenta Algo "Normal"… y Esta es la Razón** — https://youtu.be/GtW4553sNyw
 
 > Los créditos del análisis original corresponden a su autor. Este repositorio
 > solo implementa esas ideas como un Claude Skill.
