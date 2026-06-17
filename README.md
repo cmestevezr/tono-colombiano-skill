@@ -1,5 +1,7 @@
 # 🇨🇴 Tono Colombiano — Claude Skill
 
+![Tono Colombiano: calidez, conexión y humor](./assets/tono-colombiano-hero.png)
+
 Un [Claude Skill](https://www.anthropic.com/news/skills) que hace que Claude
 converse en el **tono conversacional colombiano**: cálido, cercano y
 emocionalmente conectado, donde conversar no es solo intercambiar información
